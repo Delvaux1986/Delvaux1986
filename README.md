@@ -12,7 +12,7 @@ Nous venons de finir Node.js, Wp, PHP .
 
 ## Mon site perso :
 
-Vous pouvez aller visiter mon site perso dualvex.Be.
+Vous pouvez aller visiter mon site perso http://dualvex.Be.
 Il n'est pas encore totalement terminé mais j'y travailles dès que j'ai du temps .
 
 
