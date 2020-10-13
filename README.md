@@ -1,6 +1,6 @@
 #### Delvaux Robby
 
-![Gif Codeur]("/gif.jpg")
+![Gif Codeur]("/assets/gif.gif")
 
 ## Qui suis je :
 
