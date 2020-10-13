@@ -30,7 +30,7 @@ Nous venons de finir Node js, Wp, PHP.
 
 ## Mon site perso :
 
-Vous pouvez aller visiter mon site perso http://dualvex. Be .
+Vous pouvez aller visiter mon site perso http://dualvex.be .
 Il n'est pas encore totalement terminé mais j'y travaille dès que j'ai du temps.
 
 ## Me contacter
