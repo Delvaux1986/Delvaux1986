@@ -7,6 +7,19 @@
 Je m'apelle [Robby Delvaux](https://www.linkedin.com/in/robby-delvaux/), j'ai 34 ans et je suis développeur web junior .
 Actuellement en formation à Becode Charleroi .
 
+## Mes Répo de Becode  :
+
+1. [Becode first part](https://github.com/Delvaux1986/Becode-first-Part)
+2. [Becode Second part](https://github.com/Delvaux1986/Becode-Second-Part)
+3. [Becode third part](https://github.com/Delvaux1986/becode-third-part)
+
+## Quelques projets :
+
+1. [Cogip App](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/COGIP-app/Home/index) (App de comptabilité)
+2. [Chat](https://becodechallenge.herokuapp.com/) (Chat In Réal Time)
+3. [Hangman](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hangman/hangman.php) (Pendu)
+4. [Hackers poulette](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hackers-poulette/index.php) (Form de contact fonctionnel)
+
 ## Mes technos de prédilection :
 
 1. PHP (Laravel, Wp)
