@@ -1,4 +1,4 @@
-<span style="color:blue"># Delvaux Robby</span>
+# Delvaux Robby
 
 ![Gif Codeur](https://pa1.narvii.com/6769/7998906ed1ca09afe871b7f71f26b76b0aa89111_hq.gif)
 
