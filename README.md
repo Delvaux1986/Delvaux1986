@@ -18,7 +18,7 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 
 > ## Mes technos de prédilection :
 >
-> * ![PHP](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg)
+> * ![PHP](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg =250x250)
 > * ![JAVASCRIPT](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg)
 > * ![Laravel](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg)
 > * ![MYSQL](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg)
