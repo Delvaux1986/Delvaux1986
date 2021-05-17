@@ -16,7 +16,7 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 6. [Star wars Crawl](https://delvaux1986.github.io/forShow/) (A anim make only on CSS)
 
 > ## Mes technos de prédilection :
->  <div style="display:flex;justify-content: space-evenly">
+>  <div style="display:flex;justify-content: space-evenly; flex-direction:row;">
 >  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" width="150" height="150" />
 >  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" width="150" height="150" />
 >  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg" width="150" height="150" />
