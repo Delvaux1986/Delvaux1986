@@ -15,24 +15,24 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 5. [Pomodoro Clock](https://delvaux1986.github.io/react-pomodoro/) (Do in React.js)
 6. [Star wars Crawl](https://delvaux1986.github.io/forShow/) (A anim make only on CSS)
 
-> ## Mes technos de prédilection :
->  <div style="display:flex;justify-content: space-evenly; flex-direction:row;">
->  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" width="150" height="150" style="display:flex;"/>
->  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" width="150" height="150" style="display:flex;" />
->  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg" width="150" height="150" style="display:flex;"/>
+## Mes technos de prédilection :
+>  <div style="display:flex;justify-content: space-evenly; flex-direction:row; align-items:space-between">
+>  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" width="75" height="75" style="display:flex;"/>
+>  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" width="75" height="75" style="display:flex;" />
+>  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg" width="75" height="75" style="display:flex;"/>
 >  </div>
  
 
 > * 
 > * 
 > * 
-> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg" width="150" height="150" />
-> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original-wordmark.svg" width="150" height="150" />
-> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/symfony/symfony-original-wordmark.svg" width="150" height="150" />
-> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" width="150" height="150" />
-> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="150" height="150" />
-> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" width="150" height="150" />
-> * <img src="" width="150" height="150" />
+> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg" width="75" height="75" />
+> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original-wordmark.svg" width="75" height="75" />
+> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/symfony/symfony-original-wordmark.svg" width="75" height="75" />
+> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" width="75" height="75" />
+> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="75" height="75" />
+> * <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" width="75" height="75" />
+> * <img src="" width="75" height="75" />
 
 
 
