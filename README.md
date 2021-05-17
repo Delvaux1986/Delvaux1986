@@ -42,10 +42,6 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 
 ## What am I doing now :
 
-Je suis actuellement a la recherche d'un 
-
-## Mon site perso :
-
 I am currently looking for a first experience for a laravel/vue developer position.
 In the meantime I have just redesigned my personal website and I am studying for the theoretical license.
 I'm using my time to practice my hardskills as much as possible
