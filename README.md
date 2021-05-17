@@ -2,18 +2,12 @@
 
 ![Gif Codeur](https://pa1.narvii.com/6769/7998906ed1ca09afe871b7f71f26b76b0aa89111_hq.gif)
 
-## Qui suis je :
+## Who am I :
 
-Je m'apelle [Robby Delvaux](https://www.linkedin.com/in/robby-delvaux/), j'ai 34 ans et je suis développeur web junior .
-Actuellement en formation à Becode Charleroi .
+My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am a Laravel/Vue.js junior web developer
 
-## Mes Répo de Becode  :
 
-1. [Becode first part](https://github.com/Delvaux1986/Becode-first-Part)
-2. [Becode Second part](https://github.com/Delvaux1986/Becode-Second-Part)
-3. [Becode third part](https://github.com/Delvaux1986/becode-third-part)
-
-## Quelques projets :
+## Some projects :
 
 1. [Cogip App](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/COGIP-app/Home/index) (App de comptabilité)
 2. [Chat](https://becodechallenge.herokuapp.com/) (Chat In Réal Time)
@@ -22,13 +16,19 @@ Actuellement en formation à Becode Charleroi .
 5. [Pomodoro Clock](https://delvaux1986.github.io/react-pomodoro/) (Do in React.js)
 6. [Star wars Crawl](https://delvaux1986.github.io/forShow/) (A anim make only on CSS)
 
-## Mes technos de prédilection :
-
-1. PHP (Laravel, Wp)
-2. MYSQL
-3. Node.js (Express, Socket.io, Et d'autres dépendances)
-4. MongoDb (Mongoose)
-5. HTML & CSS .
+> ## Mes technos de prédilection :
+>
+> * ![PHP](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg)
+> * ![JAVASCRIPT](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg)
+> * ![Laravel](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg)
+> * ![MYSQL](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg)
+> * ![VUE](https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original-wordmark.svg)
+> 
+. 
+3. 
+4. Node.js (Express, Socket.io, Et d'autres dépendances)
+5. MongoDb (Mongoose)
+6. HTML & CSS .
 
 ## SOFT Skills :
 
@@ -40,8 +40,7 @@ Actuellement en formation à Becode Charleroi .
 
 ## Que fais je actuellement chez Becode :
 
-En ce moment nous sommes sur le parcours React .
-Nous venons de finir Node js, Wp, PHP.
+Je suis actuellement a la recherche d'un 
 
 ## Mon site perso :
 
