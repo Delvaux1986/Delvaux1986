@@ -1,4 +1,4 @@
-# Delvaux Robby
+<h1 style="color=#3ADF00;text-align: center;">Delvaux Robby</h1>
 
 
 ## Who am I :
@@ -42,15 +42,11 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 
 ## What am I doing now :
 
-I am currently looking for a first experience for a laravel/vue developer position.
-In the meantime I have just redesigned my personal website and I am studying for the theoretical license.
-I'm using my time to practice my hardskills as much as possible
+Currently working to improve my hardskills in Laravel & Vue.js and also making a better version of my portfolio.
 
-## my hobbies :
 
-## Me contacter
-
-[Mon Email](mailto:delvaux.robby@protonmail.com)
+## Contact Me :
+[:mailbox:](mailto:delvaux.robby@protonmail.com)
 
 
 
