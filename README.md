@@ -5,18 +5,6 @@
 
 My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am a Laravel/Vue.js junior web developer
 
-
-## Some projects :
-
-* [My personnal website](https://robby-delvaux.be)
-* [Woozoo](http://woozoo.herokuapp.com/) (App made on the occasion of an interview )
-* [Cogip App](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/COGIP-app/Home/index) (App accounting)
-* [Chat](https://becodechallenge.herokuapp.com/) (Chat In Réal Time)
-* [Hangman](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hangman/hangman.php) (Hangman)
-* [Hackers poulette](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hackers-poulette/index.php) (Form de contact made for my training)
-* [Pomodoro Clock](https://delvaux1986.github.io/react-pomodoro/) (Do in React.js)
-* [Star wars Crawl](https://delvaux1986.github.io/forShow/) (A anim make only on CSS)
-
 ## My preferred technologies :white_check_mark: :
 >  
 >  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" width="75" height="75" style="display:flex;"/>
@@ -29,6 +17,18 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 > <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="75" height="75" />
 > <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" width="75" height="75" />
 > 
+
+## Some projects :
+
+* [My personnal website](https://robby-delvaux.be)
+* [Woozoo](http://woozoo.herokuapp.com/) (App made on the occasion of an interview )
+* [Cogip App](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/COGIP-app/Home/index) (App accounting)
+* [Chat](https://becodechallenge.herokuapp.com/) (Chat In Réal Time)
+* [Hangman](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hangman/hangman.php) (Hangman)
+* [Hackers poulette](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hackers-poulette/index.php) (Form de contact made for my training)
+* [Pomodoro Clock](https://delvaux1986.github.io/react-pomodoro/) (Do in React.js)
+* [Star wars Crawl](https://delvaux1986.github.io/forShow/) (A anim make only on CSS)
+
 
 
 
