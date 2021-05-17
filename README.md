@@ -1,22 +1,22 @@
-<h1 style="color=#3ADF00;text-align: center;">Delvaux Robby</h1>
-
-
-## Who am I :
-
-My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am a Laravel/Vue.js junior web developer
+> <h1 style="color=#3ADF00;text-align: center;">Delvaux Robby</h1>
+>
+>
+>## Who am I :
+>
+>My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am a Laravel/Vue.js junior web developer
 
 ## My preferred technologies :white_check_mark: :
->  
->  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" width="75" height="75" style="display:flex;"/>
->  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" width="75" height="75" style="display:flex;" />
->  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg" width="75" height="75" style="display:flex;"/>
-> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg" width="75" height="75" />
-> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original-wordmark.svg" width="75" height="75" />
-> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/symfony/symfony-original-wordmark.svg" width="75" height="75" />
-> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" width="75" height="75" />
-> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="75" height="75" />
-> <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" width="75" height="75" />
-> 
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/php/php-original.svg" width="75" height="75" style="display:flex;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg" width="75" height="75" style="display:flex;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/laravel/laravel-plain-wordmark.svg" width="75" height="75" style="display:flex;"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg" width="75" height="75" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/vuejs/vuejs-original-wordmark.svg" width="75" height="75" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/symfony/symfony-original-wordmark.svg" width="75" height="75" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" width="75" height="75" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="75" height="75" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain-wordmark.svg" width="75" height="75" />
+ 
 
 ## Some projects :
 
@@ -38,7 +38,8 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 2. Stress resistant
 3. Solution-oriented
 4. Positive
-5. Perfectionnist
+5. Openness to criticism
+6. Teamwork 
 
 ## What am I doing now :
 
