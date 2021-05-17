@@ -8,12 +8,14 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 
 ## Some projects :
 
-1. [Cogip App](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/COGIP-app/Home/index) (App de comptabilité)
-2. [Chat](https://becodechallenge.herokuapp.com/) (Chat In Réal Time)
-3. [Hangman](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hangman/hangman.php) (Pendu)
-4. [Hackers poulette](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hackers-poulette/index.php) (Form de contact fonctionnel)
-5. [Pomodoro Clock](https://delvaux1986.github.io/react-pomodoro/) (Do in React.js)
-6. [Star wars Crawl](https://delvaux1986.github.io/forShow/) (A anim make only on CSS)
+* [My personnal website](https://robby-delvaux.be)
+* [Woozoo](http://woozoo.herokuapp.com/) (App made on the occasion of an interview )
+* [Cogip App](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/COGIP-app/Home/index) (App accounting)
+* [Chat](https://becodechallenge.herokuapp.com/) (Chat In Réal Time)
+* [Hangman](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hangman/hangman.php) (Hangman)
+* [Hackers poulette](https://delvauxrobby.yj.fr/delvauxrobby.yj.fr/blog/Assets/hackers-poulette/index.php) (Form de contact made for my training)
+* [Pomodoro Clock](https://delvaux1986.github.io/react-pomodoro/) (Do in React.js)
+* [Star wars Crawl](https://delvaux1986.github.io/forShow/) (A anim make only on CSS)
 
 ## My preferred technologies :white_check_mark: :
 >  
@@ -32,20 +34,23 @@ My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am
 
 ## SOFT Skills :
 
-1. Organisé
-2. Résistant au stress
-3. Orienté solution
-4. Positif
+1. Organised
+2. Stress resistant
+3. Solution-oriented
+4. Positive
 5. Perfectionnist
 
-## Que fais je actuellement chez Becode :
+## What am I doing now :
 
 Je suis actuellement a la recherche d'un 
 
 ## Mon site perso :
 
-Vous pouvez aller visiter mon site perso http://dualvex.be .
-Il n'est pas encore totalement terminé mais j'y travaille dès que j'ai du temps.
+I am currently looking for a first experience for a laravel/vue developer position.
+In the meantime I have just redesigned my personal website and I am studying for the theoretical license.
+I'm using my time to practice my hardskills as much as possible
+
+## my hobbies :
 
 ## Me contacter
 
