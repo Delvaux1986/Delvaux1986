@@ -1,6 +1,4 @@
-<div style="display:flex;flex-direction:row; justify-content:center; align-items:center;">
-  <img src="https://github.com/Delvaux1986/anim-all/blob/main/public/assets/img/logo.png?raw=true" width="150" height="150"/>
- </div>
+
 
 > <h1 style="color=#3ADF00;text-align: center;">Delvaux Robby</h1>
 >
