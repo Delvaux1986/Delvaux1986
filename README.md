@@ -5,7 +5,7 @@
 >
 >## Who am I :
 >
->My name is [Robby Delvaux](https://robby-delvaux.be), I am 34 years old and I am a Laravel/Vue.js junior web developer
+>My name is [Robby Delvaux](https://robby-delvaux.be), I am 35 years old and I am a Laravel/Vue.js junior web developer
 
 ## My preferred technologies :white_check_mark: :
 <div style="display:flex;flex-direction:row; justify-content:space-evenly;">  
@@ -45,7 +45,7 @@
 
 ## What am I doing now :
 
-Currently working to improve my hardskills in Laravel & Vue.js and also making a better version of my portfolio.
+I am currently working for Cblue sprl @ Web Dev back-end PHP .
 
 
 ## Contact Me :
