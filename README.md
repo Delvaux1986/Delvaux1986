@@ -5,7 +5,7 @@
 >
 >## Who am I :
 >
->My name is [Robby Delvaux](https://robby-delvaux.be), I am 35 years old and I am a Laravel/Vue.js junior web developer
+>My name is [Robby Delvaux](https://robby-delvaux.be), I am 38 years old and I am a Laravel/Vue.js junior web developer
 
 ## My preferred technologies :white_check_mark: :
 <div style="display:flex;flex-direction:row; justify-content:space-evenly;">  
